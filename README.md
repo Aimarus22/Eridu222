@@ -1,6 +1,6 @@
 # Tablilla de los 222 Me — Teogonía FAIR de $B_4$
 
-* **Autor:** Aimar Rollán-González | Unafiliated Tinkerer & Transmedia Artist
+* **Autor:** Aimar Rollán-González | Unaffiliated Tinkerer & Transmedia Artist
 * **GitHub:** https://github.com/Aimarus22
 * **Disponibilidad:** https://github.com/Aimarus22/Eridu222
 * **Fecha:** Nov 2026
@@ -21,7 +21,7 @@ Este horno térmicux cuece el barro para que nada se pierda. No hay ruido analó
 
 ## Por qué existe esta tablilla de 5.674 KB
 
-Cualquiera puede contar del `0` al `65.535` en binario en seis líneas de código. Es un ejercicio simple y un prompt aun más simple.
+Cualquiera puede contar del `0` al `65.535` en binario en seis líneas de código. Es un ejercicio simple y un prompt aún más simple.
 
 Esta tablilla de arcilla binaria se cuece sin instalar `numpy`, `pandas`, `sympy`, *SageMath* ni *toolchains* de C++:
 
